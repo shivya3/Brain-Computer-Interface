@@ -1,0 +1,20 @@
+This mail is regarding the Predicting the success of learning performance of neurofeedback (BCI) training Project
+BCI-Represents the communication between the brain and the computer that may be used to interpret real time activity of the brain through signal processing.
+Neurofeedback-It is the process of using information obtained from online brain activity to allow a subject to self regulate a task.
+Now, we have various brainwaves monitoring devices. 
+EEG-Measures electrophysiological brain activation i.e. electromagnetic field created when neurons in the brain are firing. Therefore it measures electrical activity of the brain.
+fNIRS-Measures hemodynamic response i.e. change of oxygen in blood when a brain region becomes active.
+QEEG(Quantitative electroencephalogram)-It is the more recent development in brain mapping that uses quantitative analysis to produce a map of the brain's electrical activity. It applies sophisticated mathematics and statistical analysis to these brainwaves and compares them to age and gender controls.
+A complete neurofeedback training process comprises 25-50 sessions that ech lasts for 45-60 mins. Number of sessions may vary from individual to individual.
+Your brain is the strongest electromagnetic generator on the earth. Electrical energy moves through the body constantly. It comes from the neurons which communicate via electrical signals and when millions of neurons communicate, they produce synchronized electrical pulses also called brainwaves. These brainwave patterns exist in five forms-:
+Delta- slowest brain waves of fewer than 4 cycles per second.
+Theta- Brain wave of 4-8 Hz.
+Alpha- Brain wave of 8-12 Hz
+Beta- Brain wave of 12-30 Hz
+Gamma- Brain wave of more than 30Hz
+If we perform the data analysis and measure it through qEEG machine we can characterize those with ADHD(students with attention deficit hyperactivity disorder) into 4 groups-:
+Response- Patients whose response to neurofeedback is 25% to 50%.
+Remission- Patients with loss of diagnostic status.
+Dropout- Patients who did not take 20 sessions.
+Non-responder- Patients who took 20 sessions and still did not meet the criteria.
+Below I have attached a Kaggle notebook with data analysis on 22 patients' dataset. Classifying them into Learners and Non-Learners groups based on brain signals.
