@@ -1,6 +1,6 @@
 %initialize
-bandlow = 4;
-bandhigh = 7;
+bandlow = 8;
+bandhigh = 13;
 powarray=zeros(1,EEG.nbchan);
 %loop through all channels
 for chani = 1:EEG.nbchan
